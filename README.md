@@ -5,9 +5,13 @@ Different regression techniques applied to Eames House dataset (https://www.kagg
 
 
 iowa_house_prep_to_model : data cleaning, data transformation.
+
                             input : train and test data
                             output : train_to_model, test_to_model
                             
+                            
+                            
 iowa_house_regression_techniques : ridge, lasso, KRR, ElasticNet
+
                                     input : train_to_model, test_to_model
                                     
